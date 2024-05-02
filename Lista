@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+ <head>
+  <meta charset="UTF-8>
+  <meta name="viewport" "content"=width=dvice-width,initial-scale=1.0">
+  <title>lista de filmes</title>
+ </head>
+ <body>
+  <h1>lista de filmes favoritos</h1>
+  <ul>
+    <li>Animação 
+  </ul>
+  <ol>
+    <li>Frozen
+    <li>Tinker Bell
+    <li>Barbie:O segredo das fadas 
+  </ol>
+  <ul>
+    <li>Ação 
+  </ul>
+  <ol> 
+    <li>Vingadores:Guerra infinita
+    <li>Homem de ferro
+    <li>Veloses e furiosos 10
+  </ol>
+  <ul>
+    <li>Fantasia
+  </ul>
+  <ol>
+    <li>Harry Potter:A pedra filosofal 
+    <li>Piratas do Caribe
+    <li>O lar das crianças peculiares 
+  </ol>
+ </body>
+</html>
+
+
+
