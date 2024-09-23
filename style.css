@@ -10,5 +10,11 @@ header{
   background-color:yellow;
   border-radius:10px;
 }
-#im
+#img1{
+  width:200px;
+  border-radius:50%;
+}
+img{
+  width:4px;
+}
  
