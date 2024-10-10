@@ -1,5 +1,3 @@
-@charset"UTF-8";
-/*regra @charset caso haja problemas com a acentuação*/
 body{
   background-image:URL(batata palha);
   font-family:Arial;
