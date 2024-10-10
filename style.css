@@ -1,7 +1,7 @@
 @charset"UTF-8";
 /*regra @charset caso haja problemas com a acentuação*/
 body{
-  background-image:URL(batata palaha);
+  background-image:URL(batata palha);
   font-family:Arial;
   text-align:center;
 }
@@ -17,4 +17,38 @@ header{
 img{
   width:4px;
 }
- 
+p{
+  color:yellow;
+  font-size:10px;
+  font-style:italic;
+}
+div{
+  background-color:white;
+  border:medium dotted:red;
+}
+h2{
+  font-family:Cursive;
+  font-size:10px;
+}
+#Rodape{
+  boder-radius:5px;
+  background-color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
