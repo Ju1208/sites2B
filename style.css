@@ -21,6 +21,9 @@ p{
   font-size:50px;
   font-style:italic;
 }
+div{
+  display:flex;
+}
 #cardapio{
   background-color:black;
   border:medium dotted:red;
@@ -28,9 +31,6 @@ p{
 #preço{
   background-color:white;
   border:medium dotted:red;
-}
-div{
-  display:flex;
 }
 h2{
   font-family:Cursive;
